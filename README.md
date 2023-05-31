@@ -1,14 +1,22 @@
-# Expo Router Example
+# News App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+A simple application for android with the ability to view news from ['News API'](https://newsapi.org/). Also you can search, filter by date and sort articles.
 
-## 🚀 How to use
+## Deploy
 
-```sh
-npx create-expo-app -e with-router
+['Download APK'](https://drive.google.com/file/d/1DGaBnZZbS7v8s5Gm0-Q7hMqXfrqdn2Oo/view?usp=sharing)
+
+## Install instructions
+
+```bash
+1. git clone https://github.com/EugeneBurkovskiy/News-App.git
+2. npm i
+3. npm start
 ```
 
-## 📝 Notes
+### Used technologies
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+- TypeScript
+- React Native
+- React Native Elements
+- Expo
